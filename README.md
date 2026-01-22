@@ -1,6 +1,10 @@
 # NotebookLM - Desafio BootCamp Bradesco - GenAI & Dados
 Repositório utilizado para compartilhar o NotebookLM desenvolvido para concluir o desafio do BootCamp Bradesco - GenIA  &amp; Dados
 
+Link do NotebookLM:
+https://notebooklm.google.com/notebook/3f0bf017-76ab-4bb2-883a-4d94bd216871
+
+
 
 
 Algumas das Fontes:
